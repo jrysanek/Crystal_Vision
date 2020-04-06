@@ -23,8 +23,10 @@ https://drive.google.com/file/d/1bFU5_Imb0nkG5Sxgx--KKszGEMLrpXIH/view?usp=shari
 
 #### MVP 
 
--Find inpirational quotes
--Use a random genorator to choose quotes at random
+-Find inpirational quotes --
+
+-Use a random genorator to choose quotes at random --
+
 -Use some type of event listener to let user choose when to get quote	
 
 #### PostMVP 

@@ -23,16 +23,16 @@ https://drive.google.com/file/d/1bFU5_Imb0nkG5Sxgx--KKszGEMLrpXIH/view?usp=shari
 
 #### MVP 
 
--Find inpirational quotes --
+-Find inpirational quotes -
 
--Use a random genorator to choose quotes at random --
+-Use a random genorator to choose quotes at random 
 
 -Use some type of event listener to let user choose when to get quote	
 
 #### PostMVP 
 
 -Find a way to make quotes appear in a crystal ball or some other type of interactive object. i.e. 
-eight ball, etc. --
+eight ball, etc. 
 
 -add more cateogories of quotes
 
